@@ -2,7 +2,7 @@
 banner() {
 
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           Privelege Esclation Script \e[0m        \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              coded for chpter 7 thesis experiment             \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]              coded for chpter 7   experiment             \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m for testing only\n"
 printf "         testing in an authorized simulated cyberattack\n"
