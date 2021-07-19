@@ -1,4 +1,4 @@
-# Auto_linux_privilege_escalation
+# Auto linux privilege escalation
 Linux Auto Privilege Escalation for Debian distros
 utilizes several methods for privilege esclation
 
