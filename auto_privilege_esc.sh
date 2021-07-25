@@ -15,7 +15,7 @@ printf "         is illegal!\n"
 
 #----------------------------------------------above kernelexploit---------------------------------------
 methodselect() {
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]Coded for chpter 7 thesis experiment \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]Coded for chpter 7 experiment \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 echo -n "Select\n"
 read -p 'Method; ' method ;
 echo $method
